@@ -1,5 +1,5 @@
 <script>
-	let text:String = "hello world";
+	let text= "hello world";
 </script>
 
 <h1>{text}</h1>
